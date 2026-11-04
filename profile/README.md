@@ -10,6 +10,7 @@ The Group Capstone organization hosts the source code repositories, engineering 
 
 - **Status**: Active Development & Quality Verification
 - **Testing Domain**: [snpis.kesararamwithdigital.tech](https://snpis.kesararamwithdigital.tech)
+- **Design & Document Portal**: [snpis.kesararamwithdigital.tech/document/design](https://snpis.kesararamwithdigital.tech/document/design)
 - **Location**: Cambodia
 - **Team**: Team Research Dissertation (`@GroupCapstone/team-research-dissertation`)
 
@@ -23,7 +24,7 @@ The project implements a decoupled hybrid architecture comprising a high-perform
 +-------------------------------------------------------------------------+
 |                                Client Tier                              |
 |   Next.js 16 (App Router) - React 19 - Tailwind CSS - Radix UI         |
-|   Domain: https://snpis.kesararamwithdigital.tech                       |
+|   Design Portal: https://snpis.kesararamwithdigital.tech/document/design|
 +-------------------------------------------------------------------------+
                                     |
                     Server-Side Proxy (/api/v1/*)
