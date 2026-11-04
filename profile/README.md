@@ -9,7 +9,7 @@ A culminating team research dissertation and capstone project submitted in parti
 The Group Capstone organization hosts the source code repositories, engineering specifications, and architectural documentation for the **SNPI School Management System (SNP-SMS)**, an enterprise-grade multi-tenant educational administration platform designed for Cambodian academic institutions.
 
 - **Status**: Active Development & Quality Verification
-- **Testing Domain**: [snpis.kesararamwithdigital.tech](https://snpis.kesararamwithdigital.tech)
+- **Testing Domain**: [snpis.kesararamwithdigital.tech]([https://snpis.kesararamwithdigital.tech](https://snpis.kesararamwithdigital.tech/document/design))
 - **Location**: Cambodia
 - **Team**: Team Research Dissertation (`@GroupCapstone/team-research-dissertation`)
 
