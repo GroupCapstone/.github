@@ -58,10 +58,7 @@ The platform implements a decoupled hybrid architecture comprising a high-perfor
 
 | Repository | Visibility | Role | Technology Stack |
 | :--- | :--- | :--- | :--- |
-| **`SNPI-Web`** | Private | Frontend Web Application | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, SWR |
-| **`SNPI-API`** | Private | Modular Monolith Backend API | Express 5, TypeScript, Mongoose, MongoDB Replica Set, Zod, JWT |
-| **`SNPI-Docs`** | Public | Architecture Showcase & Docs | Markdown, Technical Specifications, System Diagrams |
-| **`.github`** | Public | Organization Profile & Standards | Global Profile README, PR/Issue Templates, Security Rulesets |
+
 
 ---
 
