@@ -1,15 +1,27 @@
 # Group Capstone
 
-A culminating team research dissertation and capstone project submitted in partial fulfillment of the requirements for the degree, demonstrating full-stack system architecture and enterprise school management.
+A culminating team research dissertation and capstone project submitted in partial fulfillment of the requirements for the degree, demonstrating full-stack system architecture and enterprise software engineering.
+
+---
+
+## Pronunciation and Semantic Identity
+
+| Aspect | Detail | Explanation |
+| :--- | :--- | :--- |
+| **Organization Name** | **Group Capstone** | Official organization identifier on GitHub |
+| **International Phonetic Alphabet (IPA)** | `/ɡruːp ˈkæp.stoʊn/` | International standard phonetic transcription |
+| **Syllable Respelling** | **GROOP KAP-stohn** | Pronounced with primary stress on `GROOP` and `KAP` |
+| **Definition** | **Culminating Dissertation Project** | A final-year research dissertation and production system demonstrating complete engineering competence |
 
 ---
 
 ## Overview
 
-The Group Capstone organization hosts the source code repositories, engineering specifications, and architectural documentation for the **SNPI School Management System (SNP-SMS)**, an enterprise-grade multi-tenant educational administration platform designed for Cambodian academic institutions.
+The Group Capstone organization hosts the source code repositories, engineering specifications, and architectural documentation for an enterprise-grade multi-tenant web application and modular monolith backend API.
 
 - **Status**: Active Development & Quality Verification
 - **Testing Domain**: [snpis.kesararamwithdigital.tech](https://snpis.kesararamwithdigital.tech)
+- **Design & Document Portal**: [snpis.kesararamwithdigital.tech/document/design](https://snpis.kesararamwithdigital.tech/document/design)
 - **Location**: Cambodia
 - **Team**: Team Research Dissertation (`@GroupCapstone/team-research-dissertation`)
 
@@ -17,13 +29,13 @@ The Group Capstone organization hosts the source code repositories, engineering 
 
 ## Core System Architecture
 
-The project implements a decoupled hybrid architecture comprising a high-performance Next.js web application and a 7-layer modular monolith backend API:
+The platform implements a decoupled hybrid architecture comprising a high-performance Next.js web application and a 7-layer modular monolith backend API:
 
 ```
 +-------------------------------------------------------------------------+
 |                                Client Tier                              |
 |   Next.js 16 (App Router) - React 19 - Tailwind CSS - Radix UI         |
-|   Domain: https://snpis.kesararamwithdigital.tech                       |
+|   Design Portal: https://snpis.kesararamwithdigital.tech/document/design|
 +-------------------------------------------------------------------------+
                                     |
                     Server-Side Proxy (/api/v1/*)
@@ -44,11 +56,12 @@ The project implements a decoupled hybrid architecture comprising a high-perform
 
 ## Repositories
 
-| Repository | Role | Technology Stack |
-| :--- | :--- | :--- |
-| **`SNPI-Web`** | Frontend Web Application | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, SWR |
-| **`SNPI-API`** | Modular Monolith Backend API | Express 5, TypeScript, Mongoose, MongoDB Replica Set, Zod, JWT |
-| **`.github`** | Organization Profile & Workflows | Global community health files, issue templates, organization standards |
+| Repository | Visibility | Role | Technology Stack |
+| :--- | :--- | :--- | :--- |
+| **`SNPI-Web`** | Private | Frontend Web Application | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, SWR |
+| **`SNPI-API`** | Private | Modular Monolith Backend API | Express 5, TypeScript, Mongoose, MongoDB Replica Set, Zod, JWT |
+| **`SNPI-Docs`** | Public | Architecture Showcase & Docs | Markdown, Technical Specifications, System Diagrams |
+| **`.github`** | Public | Organization Profile & Standards | Global Profile README, PR/Issue Templates, Security Rulesets |
 
 ---
 
@@ -56,9 +69,9 @@ The project implements a decoupled hybrid architecture comprising a high-perform
 
 - **Zero-Bridge Architecture**: Strict operational decoupling between GitHub version control and Vercel hosting. Production deployments are executed via explicit CLI workflows with zero automated webhook triggers.
 - **7-Layer Backend Hierarchy**: Strict structural separation across `route -> controller -> service -> repository -> model -> validation -> types`.
-- **RBAC & Multi-Tenancy**: Tenant boundary isolation enforcing `schoolId` and `branchId` scoping on all data access patterns.
-- **Cryptographic Key Hygiene**: Timing-safe comparisons via `crypto.timingSafeEqual` and zero-leakage credential isolation.
-- **CI/CD Quality Gates**: 100% green verification requiring zero ESLint errors, zero TypeScript errors, passing Vitest suites, and pre-deployment manifest audits.
+- **RBAC & Multi-Tenancy**: Tenant boundary isolation enforcing organizational scoping on all data access patterns.
+- **Branch Protection & Quality Gates**: Main branches protected with pull request review enforcement, deletion prevention, and automated CI quality checks.
+- **Zero-Emoji Policy**: Clean textual badges and professional technical documentation across all repositories.
 
 ---
 
