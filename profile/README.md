@@ -1,3 +1,5 @@
-# Group Capstone
 
-Group Capstone is a final-year research dissertation team. 
+
+
+Group Capstone is a final-year team that writes one strong research thesis together.
+
