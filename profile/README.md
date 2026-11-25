@@ -6,9 +6,9 @@
 
 <br>
 
-[![Tan-Saphea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tan-Saphea&show_icons=true&theme=highcontrast&hide_border=true)](https://github.com/Tan-Saphea) [![Tan-Saphea's GitHub streak](https://github-readme-streak-stats-eight.vercel.app?user=Tan-Saphea&theme=highcontrast&hide_border=true)](https://github.com/Tan-Saphea)
+[![Tan-Saphea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tan-Saphea&show_icons=true&theme=default&bg_color=ffffff&hide_border=true)](https://github.com/Tan-Saphea)
 
-[![shiliaiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiliaiwei&show_icons=true&theme=neon&hide_border=true)](https://github.com/shiliaiwei) [![shiliaiwei's GitHub streak](https://github-readme-streak-stats-eight.vercel.app?user=shiliaiwei&theme=neon&hide_border=true)](https://github.com/shiliaiwei)
+[![shiliaiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiliaiwei&show_icons=true&theme=default&bg_color=ffffff&hide_border=true)](https://github.com/shiliaiwei)
 
 <br>
 
