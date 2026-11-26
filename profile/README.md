@@ -14,7 +14,7 @@
 
 <a href="https://github.com/shiliaiwei"><img src="https://images.weserv.nl/?url=github.com/shiliaiwei.png&mask=circle&w=80&h=80" width="80" alt="shiliaiwei avatar"></a>
 
-[![shiliaiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiliaiwei&show_icons=true&theme=default&bg_color=ffffff&hide_border=true)](https://github.com/shiliaiwei)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=shiliaiwei&theme=neon&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
